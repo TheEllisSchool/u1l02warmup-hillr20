@@ -85,7 +85,7 @@ public class MakingChange2 {
 		//int pennies = cents - nickels * 5;
 		//JOptionPane.showMessageDialog(null, "$" + num + " is " + nickels + " nickels and "
 				//+ pennies + " pennies.");
-		JOptionPane.showMessageDialog(null, "For the first amount: "
+		JOptionPane.showMessageDialog(null, "The first amount equals: "
 				+ "\nNumber of quarters: " + quarters +
 				" \nNumber of dimes: " + dimes 
 				+ " \nNumber of nickels: " + nickels + " \nNumber of pennies: " + pennies); 
@@ -99,7 +99,7 @@ public class MakingChange2 {
 		//int pennies = cents - nickels * 5;
 		//JOptionPane.showMessageDialog(null, "$" + num + " is " + nickels + " nickels and "
 				//+ pennies + " pennies.");
-		JOptionPane.showMessageDialog(null, "For the second amount: "
+		JOptionPane.showMessageDialog(null, "The second amount equals: "
 				+ "\nNumber of quarters: " + quarters2 +
 				" \nNumber of dimes: " + dimes2 
 				+ " \nNumber of nickels: " + nickels2 + " \nNumber of pennies: " + pennies2); 
